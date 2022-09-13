@@ -1,0 +1,17 @@
+.title {
+  color: red;
+}
+.subtitle {
+  color: green;
+  font-family: sans-serif italic;
+}
+.App {
+  text-align: center;
+}
+.custom_button {
+  width: 100px;
+  height: 75px;
+  color: green;
+  background-color: chocolate;
+
+}
